@@ -53,15 +53,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## 🌟 Strengths
 
-- Intégration web experte
-- Développement d'applications React
-- Tests et débogage
-- Analyse des besoins clients
+- Web integration expert
+- React application development
+- Testing and debugging
+- Client needs analysis
 
 ## 🎓 Education
 
-- Développeur concepteur logiciel (Titre RNCP niveau VI) - OpenClassrooms
-- Nombreuses certifications Udemy et OpenClassrooms
+- Software Developer/Designer (RNCP Level VI - Bachelor) - OpenClassrooms
+- Numerous certifications from Udemy and OpenClassrooms
 
 ## 📫 Contact
 
