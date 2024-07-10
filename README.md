@@ -11,18 +11,13 @@ For freelance opportunities, contact me via email: julien.gilbert.pro@gmail.com 
 
 ## 📈 GitHub stats
 
-<div style="display: flex; flex-direction: row; gap: 10px;">
+<div style="display: flex; flex-direction: row; gap: 16px;">
 
 <div>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=juliengDev&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=juliengDev&show_icons=true&theme=radical" alt="Julien Gilbert's GitHub Stats" />
-</div>
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliengDev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="GitHub Top Languages" />
 </div>
