@@ -1,4 +1,4 @@
-# Julien Gilbert - Développeur ReactJS 👨‍💻
+# Julien Gilbert - React - JS Developer 👨‍💻
 
 For freelance opportunities, contact me via email: julien.gilbert.pro@gmail.com :)
 
