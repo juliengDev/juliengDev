@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align="center">
-<h1 style="text-align:center">Environment-Tools</h1>
+<h1 style="text-align:center">Environment and Tools</h1>
 </br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=apple,vscode,vite,figma,git,github,notion,postman,docker,netlify,sublime&perline=12" />
