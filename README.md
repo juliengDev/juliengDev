@@ -11,22 +11,20 @@
 </br>
 </br>
 <div align="center">
-<h1 style="text-align:center">Languages-Frameworks-Tools</h1>
-</br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=apple,vscode,vite,figma,git,github,notion,postman,docker,netlify,sublime&perline=12" />
-</a>
-</div>
-<br>
-
-<div align="center">
 <h1 style="text-align:center">Languages and Librairies</h1>
 </br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,mongodb,jest,sass,styledcomponents,tailwind,bootstrap,regex,bash,bun,jquery,md,materialui,npm,babel,webpack,yarn&perline=12" />
 </a>   
 </div>
-
+<br>
+<div align="center">
+<h1 style="text-align:center">Environment-Tools</h1>
+</br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=apple,vscode,vite,figma,git,github,notion,postman,docker,netlify,sublime&perline=12" />
+</a>
+</div>
 <br/>
 <hr/>
 
