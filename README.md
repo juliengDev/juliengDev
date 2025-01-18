@@ -56,10 +56,12 @@
 
 ## 📈 GitHub stats
 
+
+
 <div  style="display: flex; flex-direction: row; gap: 32px; justify-content:center; align-items:center">
   <div>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=juliengDev&theme=dark" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=juliengDev" alt="GitHub Streak" />
     </a>
   </div>
   <div>
