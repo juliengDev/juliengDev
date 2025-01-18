@@ -62,8 +62,9 @@
   <div>
    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=juliengDev&theme=dark&hide_border=false" alt="GitHub Streak" />
-</a>
+    </a>
   </div>
+  <br/>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliengDev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="GitHub Top Languages" />
   </div>
