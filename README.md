@@ -60,7 +60,7 @@
 
 <div  style="display: flex; flex-direction: row; gap: 32px; justify-content:center; align-items:center">
   <div>
-   <img src="https://streak-stats.demolab.com/?user=juliengDev" alt="git.io streak-stats" />
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=juliengDev" alt="GitHub Streak" /></a>
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliengDev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="GitHub Top Languages" />
