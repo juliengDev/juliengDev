@@ -58,7 +58,7 @@
 
 
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" style="margin-right: 32px;">
     <img height="160" src="https://github-readme-streak-stats-eight.vercel.app/?user=juliengDev&theme=ambient_gradient&hide_border=false" alt="GitHub Streak" />
   </a>
