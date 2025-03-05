@@ -60,9 +60,9 @@
 
 <div align="center" style="display: flex; flex-direction: row; gap: 32px; justify-content: center; align-items: center; width: 100%;">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" >
-    <img height="160" src="https://github-readme-streak-stats-eight.vercel.app/?user=juliengDev&theme=ambient_gradient&hide_border=false" alt="GitHub Streak" />
+    <img height="160" src="https://github-readme-streak-stats-eight.vercel.app/?user=juliengDev&theme=react&hide_border=false" alt="GitHub Streak" />
   </a>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliengDev&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="GitHub Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliengDev&show_icons=true&locale=en&layout=compact&theme=react" alt="GitHub Top Languages" />
 </div>
 
 ## Support Me ❤️
