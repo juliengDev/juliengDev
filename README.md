@@ -42,7 +42,7 @@
 
 ## 📫 Contact
 
-<div align="center" style="display: flex; align-items: center; gap: 10px; justiy-content:center">
+<div align="center" style="display: flex; align-items: center; gap: 32px; justiy-content:center">
   <a href="mailto:julien.gilbert.pro@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge&logoWidth=30" />
   </a>
