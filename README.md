@@ -30,8 +30,8 @@
 
 ## 🌟 Strengths
 
-- Web integration expert
-- React application development
+- Web integration expert - 40+ FrontEnd project done
+- React/Next.js application development
 - Testing and debugging
 - Client needs analysis
 
