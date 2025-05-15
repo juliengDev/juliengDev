@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge&logoWidth=30" />
   </a>
   <a href="https://www.linkedin.com/in/julien-gilbert-reactjs/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedIn&logoColor=fff&style=for-the-badge&logoWidth=30 target="_blank" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedIn&logoColor=fff&style=for-the-badge&logoWidth=30" target="_blank" />
   </a>
   <a href="https://www.frontendmentor.io/profile/juliengDev" target="_blank">
      <img src="https://img.shields.io/badge/-Frontend%20Mentor-3F54A3?logo=frontend-mentor&logoColor=fff&style=for-the-badge&logoWidth=30" target="_blank" /> 
